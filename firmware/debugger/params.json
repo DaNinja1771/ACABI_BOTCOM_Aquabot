@@ -1,0 +1,11 @@
+{
+    "debug_log_number": 0,
+    "baud_rate": 115200,
+    "serial_port": "/dev/ttyUSB0",
+    "path_option_1": "logs/default_power_profile/",
+    "path_option_2": "logs/usb_power_profile/",
+    "path_option_3": "logs/latency_tests/",
+    "path_option_4": "logs/log_folders/",
+    "file_name": "BOTCOM_Test_",
+    "file_extension": ".txt"
+}
